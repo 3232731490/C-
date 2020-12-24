@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\32327\Desktop\计算器\计算器\计算器\源.cpp(57,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\32327\Desktop\计算器\计算器\计算器\源.cpp(15,29): warning C4101: “U”: 未引用的局部变量
+C:\Users\32327\Desktop\计算器\计算器\计算器\源.cpp(26,9): warning C4101: “res_p”: 未引用的局部变量
+C:\Users\32327\Desktop\计算器\计算器\计算器\源.cpp(15,23): warning C4101: “t”: 未引用的局部变量
+C:\Users\32327\Desktop\计算器\计算器\计算器\源.cpp(15,9): warning C4101: “r”: 未引用的局部变量
+  计算器.vcxproj -> C:\Users\32327\Desktop\计算器\计算器\Debug\计算器.exe
